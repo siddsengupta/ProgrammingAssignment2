@@ -1,5 +1,4 @@
 ## The following pairs of functions caches the inverse of a matrix
-## functions do
 
 ## The first function makeCacheMatric creates a special matrix
 ## It creates a list containing functions to 
